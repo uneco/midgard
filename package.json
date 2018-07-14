@@ -1,0 +1,11 @@
+{
+  "name": "midi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "AOKI Yuuto <aoki@u-ne.co>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.5.2",
+    "ts-node": "^7.0.0"
+  }
+}
